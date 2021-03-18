@@ -47,7 +47,6 @@ expo start
 Ao abrir o aplicativo, informe seu peso e altura. 
 
 ![1][tela1] 
-![2][tela2] 
 
 Clique no botão calcular para verificar se seu peso esta acima do ideal ou abaixo.
 
@@ -55,6 +54,5 @@ Clique no botão calcular para verificar se seu peso esta acima do ideal ou abai
 ![4][tela4]
 
 [tela1]: Tela1.PNG
-[tela2]: Tela2.PNG
 [tela3]: Tela3.PNG
 [tela4]: Tela4.PNG
